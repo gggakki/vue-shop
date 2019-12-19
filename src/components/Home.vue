@@ -1,6 +1,7 @@
 <template>
-
+    
     <el-container class="home-container">
+        
         <!-- 头部 -->
         <el-header>
             <div>
